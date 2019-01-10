@@ -1,0 +1,9 @@
+For this assignment, ADTify Captain Sonar
+
+Specifically, change the Submarine class to be an ADT, which means all member
+variables are private and you have get/set methods for all of them.
+
+You can leave the move class as a PODS if you like
+
+Extra credit will be available for people who add cool new features to the
+game
